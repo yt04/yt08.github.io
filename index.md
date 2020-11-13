@@ -1,5 +1,6 @@
 ---
-title: Yuri Takanabe Website
+title: Time Series Analysis
+description: Analyzing Sales data
 ---
 
 These links are to work I've done with analytics on various topics.
